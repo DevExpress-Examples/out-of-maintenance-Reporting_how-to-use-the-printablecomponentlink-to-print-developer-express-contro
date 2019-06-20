@@ -1,3 +1,4 @@
+Imports Microsoft.VisualBasic
 Imports System
 Imports System.Windows.Forms
 Imports DevExpress.XtraPrinting
